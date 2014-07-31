@@ -1,0 +1,50 @@
+body
+{
+	background-color: #fff6f1;
+	font-family: Arial;
+}
+#contenido
+{
+	width: 960px;
+	margin: 0 auto;
+	text-align: center;
+}
+h1
+{
+	color: #e44e2d;
+}
+nav ul li
+{
+	display: inline-block;
+	margin-right: 20px;
+	color: #1d1d1d;
+	cursor: pointer;
+}
+nav ul li a
+{
+	text-decoration: none;
+}
+#textoPr
+{
+	width: 600px;
+	height: 300px;
+	background-color: #1d1d1d;
+	color: #fff;
+	margin: auto;
+	text-align: left;
+	border-radius: 20px;
+	padding: 20px;
+	box-shadow: 0px 0px 20px rgba(0,0,0,0.5)
+}
+a
+{
+	color: #e44e2d;
+
+}
+#miCanvas
+{
+	position: absolute;
+	bottom: 0px;
+	left: 0px;
+	border: solid;
+}
